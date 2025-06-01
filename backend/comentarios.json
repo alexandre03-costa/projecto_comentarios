@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Alexandre",
+    "tipo": "Facebook",
+    "comentario": "Eu gosto muito"
+  },
+  {
+    "nome": "Wilson",
+    "tipo": "Whatsapp",
+    "comentario": "É muito lento"
+  },
+  {
+    "nome": "Cristiano",
+    "tipo": "Instagram",
+    "comentario": "Tem de melhorar muito, é um lixo serio mesmo😊😂"
+  },
+  {
+    "nome": "Bolinha",
+    "tipo": "Instagram",
+    "comentario": "Eu detesto o instagram"
+  },
+  {
+    "nome": "Rui",
+    "tipo": "Instagram",
+    "comentario": "não gosto"
+  }
+]

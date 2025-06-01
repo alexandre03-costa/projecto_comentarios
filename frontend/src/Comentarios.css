@@ -1,0 +1,145 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+ 
+}
+
+button {
+    background-color: rgb(158, 87, 6);
+    color:white;
+    border:none;
+    margin-left: 20px;
+    width:100px;
+    font-family: 'Mochiy Pop One';
+
+}
+
+.redes-sociais {
+    background-color: #BA640E;
+    width: 1266px;
+    height: 120px;
+    border-radius: 44px;
+     text-align: center;
+}
+
+.redes-sociais .logo {
+    margin-top: 2px;
+    padding-left: 70px;
+}
+
+h1 {
+    font-family: 'Mochiy Pop One';
+    color: #FF9500;
+     text-align: center;
+}
+
+.form {
+ 
+    padding-top: 20px;
+    margin-top: 20px; 
+
+}
+
+.form ul {
+    list-style: none;
+}
+
+.form input{
+   border-radius:6px;
+    width: 550px;
+    height: 30px;
+     font-size: 16px;
+    margin-left: 20px;
+    border: 1px solid ;
+    margin-top: 20px;
+    
+}
+.form label{
+    font-family: 'Mochiy Pop One';
+    color: #353131;
+    margin-left: 20px;
+    font-size: 16px;
+}
+.form select{
+    border-radius:6px;
+    width: 553px;
+    height: 30px;
+    margin-left: 20px;
+     font-size: 16px;
+    background-color:rgb(225, 225, 225);
+       color: #353131;
+}
+.form textarea{
+    border-radius: 8px;
+    margin-left: 18px;
+    font-size: 16px;
+    width: 616px;
+    height: 80px;
+    resize: none;
+    margin-top: 20px;
+    
+}
+.asid img{
+    width: 310px;
+    height: 220px;
+    margin-left: -400px;
+}
+
+.asid {
+
+}
+
+.principal{
+    display: flex;
+    flex-direction:wrap;
+}
+
+.lista-comment li {
+    background-color: #faf9f9;
+    padding: 5px;
+    font-size: 18px;
+    margin-top: 10px;
+    border-radius: 12px;
+    width: 1240px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: normal;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+   
+
+}
+.lista-comment {
+  margin-top: 8px;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+ul {
+    margin-top: 80px;
+}
+
+.comentario-item {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background-color: #D9D9D9;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 12px;
+  max-width: 600px;
+  width: 100%;
+  box-sizing: border-box;           /* garante que padding fique dentro do width */
+  overflow-wrap: break-word;        /* quebra palavras longas */
+  word-wrap: break-word;
+}
+
+.comentario{
+   width: 20px;
+   height: 20px;
+   background-color: #ffffff; /* azul, por exemplo */
+   border-radius: 20px;
+  
+}
+
